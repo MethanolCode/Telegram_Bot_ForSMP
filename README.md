@@ -1,1 +1,1 @@
-# DMB_01
+# This is Telegram bot for support users SimpleMediaPlayer
