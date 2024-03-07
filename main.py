@@ -1,7 +1,7 @@
 import telebot
 import time
 
-API_TOKEN = ''
+API_TOKEN = 'хуй'
 bot = telebot.TeleBot(API_TOKEN)
 
 @bot.message_handler(commands=['start'])
